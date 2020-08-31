@@ -1,24 +1,3 @@
 # vuejs-todoapp
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![todo-app](https://user-images.githubusercontent.com/26345498/91721762-f3c11200-eba1-11ea-8550-4b3a2ca80279.png)
